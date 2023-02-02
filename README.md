@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am ✨Jean-Paul Laclau✨, a guy from Buenos Aires learning to code. 
+I am ✨Jean-Paul Laclau✨, a guy from Buenos Aires learning to code.  
+
 You can find out more about me at my portfolio website, https://code.jplaclau.com/ .
 
 - 🔭 I’m currently working on building my Web3 portfolio
