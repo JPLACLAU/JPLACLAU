@@ -11,9 +11,9 @@ I am ✨Jean-Paul Laclau✨, a guy from Buenos Aires learning to code.
 
 You can learn more about me and how to contact me on my portfolio website, https://code.jplaclau.com/
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
