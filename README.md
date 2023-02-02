@@ -3,7 +3,7 @@
 I am ✨Jean-Paul Laclau✨, a guy from Buenos Aires learning to code.
 
 - 🔭 I’m currently working on building my Web3 portfolio
-- 🌱 I’m currently learning Solidity and ReactJS. I am also enrolled in a MSc. in Blockchain & Cryptocurrencies at University of Nicosia.
+- 🌱 I’m learning Solidity and ReactJS. I am also enrolled in a MSc. in Blockchain & Cryptocurrencies at University of Nicosia.
 - 👯 I’m looking to collaborate on Smart Contracts
 - 🌎 I speak fluent French, Spanish & English.
 - ⚡ Fun fact: I've been a Marine Biologist with a Master's in Sustainability for a decade and got tired of it.
