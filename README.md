@@ -2,7 +2,7 @@
 
 I am ✨Jean-Paul Laclau✨, a guy from Buenos Aires learning to code.
 
-- 🛠️ I’m currently working on building my Web3 portfolio
+- 🛠️ I’m currently working on building my Web5 | BTC  portfolio
 - 🌱 I’m learning TS, ReactJS, NextJS. I am also enrolled in a MSc. in Blockchain & Cryptocurrencies at University of Nicosia.
 - 👯 I’m looking to collaborate on Bitcoin projects
 - 🌎 I speak fluent French, Spanish & English.
