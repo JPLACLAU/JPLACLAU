@@ -42,4 +42,4 @@ Languages and Tools:
 <a href="https://getalby.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/getAlby/media/blob/main/Alby-tipping-icons/120x55/tip-with-yellow.png" alt="Alby"/> </a>
 
-Lightning Network tips: ⚡jplaclau@getalby.com
+Lightning Network tips: ⚡jeanpaul@getalby.com
